@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lista_contatos/app/view/contact_form.dart';
+import 'package:lista_contatos/app/view/form_contact.dart';
 import 'package:lista_contatos/app/view/list_contact.dart';
 
 class MyApp extends StatelessWidget {
